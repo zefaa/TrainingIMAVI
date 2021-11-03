@@ -4,27 +4,6 @@
       dense
       clipped
     >
-      <v-timeline-item
-        fill-dot
-        class="white--text mb-12"
-        color="orange"
-        large
-      >
-        <template v-slot:icon>
-          <span>JL</span>
-        </template>
-       
-          <template v-slot:append>
-            <v-btn
-              class="mx-0"
-              depressed
-              @click="comment"
-            >
-              Post
-            </v-btn>
-          </template>
-        </v-text-field>
-      </v-timeline-item>
 
       <v-timeline-item
         class="mb-4"

@@ -1,5 +1,5 @@
 <template>
 <div><Tabs/>
-<nuxt/>
+<center><nuxt/></center>
 </div>
 </template>
